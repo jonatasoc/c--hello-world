@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jonatas/.dotnet/store/|arch|/|tfm|",
+      "/home/jonatas/.nuget/packages"
+    ]
+  }
+}
